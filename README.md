@@ -9,9 +9,9 @@ Python (version 3.8 or later)
 AWS CLI (Amazon Web Services Command Line Interface)
 
 # Steps to Deploy
-1. Develop the Lambda Function
+1. Develop the Lambda Function.
 Create a new Python file named lambda_function.py.
-Write the Lambda function code inside lambda_function.py
+Write the Lambda function code inside lambda_function.py and
 Package the function code into a deployable ZIP archive:
 
 2. Define Infrastructure as Code (IaC)
